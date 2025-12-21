@@ -1,5 +1,3 @@
-<h1 align="center">H What's Up?</h1>
-
 
 <h1 align="center">Hi 👋, I'm Abdus Salam</h1>
 <h3 align="center">Android Developer | Frontend Enthusiast from Pakistan 🇵🇰</h3>

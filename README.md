@@ -1,29 +1,10 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">H What's Up?</h1>
+
+
+<h1 align="center">Hi 👋, I'm Abdus Salam</h1>
+<h3 align="center">Android Developer | Frontend Enthusiast from Pakistan 🇵🇰</h3>
 
 ---
-
-<!-- ================= SKILLS ROW (TOP) ================= -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=go" height="60" />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=rust" height="60" />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=py" height="60" />
-  <img width="12"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="60" />
-</div>
 
 ---
 
@@ -52,9 +33,6 @@
 </div>
 
 ---
-
-<h1 align="center">Hi 👋, I'm Abdus Salam</h1>
-<h3 align="center">Android Developer | Frontend Enthusiast from Pakistan 🇵🇰</h3>
 
 ---
 
@@ -111,13 +89,11 @@
 ---
 
 ## 🕹 Pacman Contribution Game (KEPT ✅)
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" 
-    src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 
 

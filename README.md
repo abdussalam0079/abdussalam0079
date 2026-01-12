@@ -1,62 +1,87 @@
----
-
 <h1 align="center">Hi 👋, I'm Abdus Salam</h1>
-<h3 align="center">Android Developer | Frontend Enthusiast from Pakistan 🇵🇰</h3>
+<h3 align="center">Android Developer • Frontend Engineer • UI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdussalam0079&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
 ---
 
----
+## 👨‍💻 About Me
+
+- 🚀 Android Developer with strong frontend skills  
+- 🔭 Currently building **Coffee Shop Android App**
+- 🌱 Learning **Figma, Framer & Motion UI**
+- 👯 Open to collaboration on **No-Mouse (Gesture Control Project)**
+- 🤝 Looking for contributors for **Plantify**
+- 💬 Ask me about **Android, Java, Kotlin, Vue, React, GSAP**
+- 📫 Reach me at **ab.ist.edu.pk@gmail.com**
+- ⚡ Fun fact: *I debug better at night 🌙*
 
 ---
 
-<!-- ================= STATS ================= -->
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abdussalam0079&theme=dracula" height="150"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=abdussalam0079&theme=dracula&row=1&column=6" height="150"/>
-</div>
+## 🌐 Connect With Me
 
-
-
-## 🚀 About Me
-- 🔭 I’m currently working on **Coffee-Shop Android App**
-- 🌱 I’m currently learning **Figma & Framer (Design & Development)**
-- 👯 I’m looking to collaborate on **No-Mouse Project**
-- 🤝 I’m looking for help with **Plantify**
-- 💬 Ask me about **Vue, React & GSAP**
-- 📫 How to reach me: **ab.ist.edu.pk@gmail.com**
-- 👨‍💻 All of my projects are available at **Portfolio**
-- 📝 I regularly write articles on **Blog**
-- 📄 Know about my experiences: **Resume**
-- ⚡ Fun fact: *I think I’m funny 😄*
-
----
-
-## 🤝 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/abdus-salam-4b8305364">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  <a href="https://www.linkedin.com/in/abdus-salam-4b8305364" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="35"/>
+  </a>
+  <a href="mailto:ab.ist.edu.pk@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="35"/>
   </a>
 </p>
 
 ---
 
+## 🛠 Tech Stack
 
+### 📱 Mobile & Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=android,java,kotlin,js,react,vue"/>
+</p>
 
-## 🛠 Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=android,java,kotlin,js,react,vue,nodejs,mongodb,mysql,figma,framer,python,aws,php,c,cpp"/>
+### 🧠 Backend & Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,php,aws"/>
+</p>
+
+### 🎨 Design & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,framer,python,c,cpp"/>
 </p>
 
 ---
 
-## 📊 Most Used Languages
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdussalam0079&layout=compact&theme=dracula"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdussalam0079&theme=dracula&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdussalam0079&show_icons=true&theme=dracula&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🕹 Pacman Contribution Game
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdussalam0079&layout=compact&theme=dracula&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdussalam0079&theme=dracula&row=1&column=6"/>
+</p>
+
+---
+
+## 🕹 Contribution Pac-Man
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/abdussalam0079/abdussalam0079/output/pacman-contribution-graph-dark.svg">
@@ -66,5 +91,8 @@
     src="https://raw.githubusercontent.com/abdussalam0079/abdussalam0079/output/pacman-contribution-graph.svg">
 </picture>
 
+---
 
-
+<p align="center">
+  <i>"Code. Design. Improve. Repeat."</i>
+</p>

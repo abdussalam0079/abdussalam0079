@@ -11,6 +11,36 @@
 
 ---
 
+## 💻 Live Developer Terminal (ASCII Animation)
+
+<p align="center">
+<svg width="600" height="160" viewBox="0 0 600 160" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .term { font: 14px monospace; fill: #00ff9c; }
+    .cursor { animation: blink 1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+  </style>
+
+  <rect width="100%" height="100%" rx="12" fill="#0d1117"/>
+
+  <text x="20" y="30" class="term">$ adb connect device</text>
+  <text x="20" y="55" class="term">✔ Device connected</text>
+  <text x="20" y="80" class="term">$ ./build_android_app</text>
+
+  <text x="20" y="105" class="term">
+    <animate attributeName="opacity"
+             values="0;1;1;0"
+             dur="4s"
+             repeatCount="indefinite" />
+    Building UI • Optimizing • Deploying
+  </text>
+
+  <text x="20" y="135" class="term cursor">▌</text>
+</svg>
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 I am a passionate **Android Developer** with strong **frontend and UI/UX skills**.  
@@ -32,7 +62,7 @@ I love building clean applications, smooth animations, and meaningful user exper
   <a href="https://www.linkedin.com/in/abdus-salam-4b8305364">
     <img src="https://img.shields.io/badge/LinkedIn-Abdus%20Salam-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="ab.ist.edu.pk@gmail.com">
+  <a href="mailto:ab.ist.edu.pk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
@@ -82,4 +112,3 @@ I love building clean applications, smooth animations, and meaningful user exper
 <p align="center">
   ⭐ If you like my work, consider giving a star to my repositories!
 </p>
-

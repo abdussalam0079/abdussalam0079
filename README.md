@@ -32,7 +32,7 @@ I love building clean applications, smooth animations, and meaningful user exper
   <a href="https://www.linkedin.com/in/abdus-salam-4b8305364">
     <img src="https://img.shields.io/badge/LinkedIn-Abdus%20Salam-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:ab.ist.edu.pk@gmail.com">
+  <a href="ab.ist.edu.pk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
